@@ -1,0 +1,6 @@
+{
+  "name": "Hệ Thống Quản Lý Xuất Kho & Tồn Kho",
+  "description": "Hệ thống quản lý xuất nhập tồn kho thời gian thực cho mực in, hộp mực đổ và linh kiện máy in máy tính - Công Ty Bệnh Viện Cổ Phần VPMed.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
